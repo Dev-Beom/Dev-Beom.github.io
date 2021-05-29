@@ -1,6 +1,6 @@
 # Site settings
-title: "Lee, Youngbeom"
-description: "Resume"
+title: "이영범"
+description: "이력서"
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lee, Yeongbeom"
-resume_title:                   "Back-end Developer"
+resume_name:                    "이영범"
+resume_title:                   "백앤드 개발자"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "youngbeom0908@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "010-5409-8847"
-resume_contact_address:         "Dongjak-gu, Seoul, Republic of Korea"
+resume_contact_address:         "서울특별시 동작구 신대방동"
 
-resume_header_contact_info:     "Dongjak-gu, Seoul, Republic of Korea • 010-5409-8847 • youngbeom0908@gmail.com"
+resume_header_contact_info:     "서울특별시 동작구 신대방동 • 010-5409-8847 • youngbeom0908@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Super junior developer</p>"
+resume_header_intro: "<p>주니어 개발자가 되고싶은 슈퍼 주니어 개발자입니다.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
