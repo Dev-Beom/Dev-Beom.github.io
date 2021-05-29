@@ -1,10 +1,10 @@
 # Skills
 # Organizational leadership
 - skill: Java8 (중) / Spring Framework (중)
-  description: Hibernate, aop, JWT, Spring Security, JPA, MariaDB, MySQL, AWS 를 활용한 2개의 프로잭트 경험
+  description: Hibernate, AOP, JWT, Spring Security, JPA, SWAGGER, MariaDB, MySQL, AWS 를 활용한 2개의 프로잭트 경험
 
 - skill: Node.js (중) / Express.js (하)
-  description: RESTful api 통신, MongoDB, JWT, Paas-ta Cloud를 활용한 1개의 프로젝트 경험
+  description: RESTful API 통신, MongoDB, JWT, Paas-ta Cloud를 활용한 1개의 프로젝트 경험
 
 # Communications strategy
 - skill: Dart (중) / Flutter 2.0 (중)
